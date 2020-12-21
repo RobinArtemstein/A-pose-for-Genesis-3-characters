@@ -1,1 +1,1 @@
-# A-pose-for-Genesis-3-characters
+# A-pose for Genesis 3 characters
